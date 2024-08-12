@@ -1,0 +1,39 @@
+.azul {
+    width: 500px;
+    height: 500px;
+    position: relative;
+    background-color: blue;
+    
+}
+
+.vermelha {
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    margin: 50px;
+    background-color: red;
+}
+
+.preta {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    margin: 50px;
+    background-color: black;
+}
+
+.verde {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    margin: 50px;
+    background-color: green;
+}
+
+.amarela {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    margin: 50px;
+    background-color: yellow;
+}

@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.div1 {
+    background-color: rgb(43, 43, 43);
+    color: #fff;
+    text-align: right;
+    position: static;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+
+}
+
+.div2 {
+    background-color: rgb(43, 43, 43);
+    color: #fff;
+    position: absolute;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    padding: 10px;
+    margin: 20px;
+    border: red 5px solid;
+    height: 150px;
+}
